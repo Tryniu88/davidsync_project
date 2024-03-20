@@ -5,7 +5,7 @@ echo $_SESSION['user'];
 
 
 <ul>
-<li> <a href='/php/main.php'>Strona admina</a></li>
+<li> <a href='/php/main.php'>Strona główna</a></li>
 
 
 <?php
